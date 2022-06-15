@@ -1,6 +1,6 @@
 # **profile_of {"H011yG"}**
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C-F09820?style=flat&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?sytle=flat-square&logo=java&logoColor=white"/></a>
 
 
