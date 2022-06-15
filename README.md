@@ -1,4 +1,4 @@
-<div aling="center">
+<div align="center">
 # **profile_of {"H011yG"}**
 </div>
   
