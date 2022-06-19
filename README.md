@@ -4,8 +4,8 @@
 코딩 배우는 중.
 
 - 🌱 I’m currently learning java. It's so intersting!
-- 📫 How to reach me:
-<a href="mailto:knancy13@gmail.com">
+- 📫 How to reach me:.
+<a href="mailto:knancy13@gmail.com"><img src="https://img.shields.io/badge/-gmail-critical"><br>
 
 <img src="https://img.shields.io/badge/C-F09820?style=flat&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?sytle=flat-square&logo=java&logoColor=white"/></a>
